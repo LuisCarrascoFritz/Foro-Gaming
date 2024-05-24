@@ -33,7 +33,7 @@
     text-decoration: none;
   }
 body{
-    background-image: url(img/fondo.jpg);
+    background-image: url(../img/fondo.jpg);
 }
 #logoPagina{
     max-width: 100px;
@@ -70,4 +70,15 @@ padding: 5px 10px;
 .main-content h1{
   text-align: center;
   font-size: 40px;
+}
+h2{
+  font-size: 40px;
+  color: rgb(254, 254, 255);
+  padding: 10px 20px;
+  text-shadow: 1px 1px 1px rgb(255, 255, 255);
+
+}
+.deal img {
+  width: 200px; /* Cambia a la anchura deseada */
+  height: auto; /* Mantiene la proporción de la imagen */
 }
